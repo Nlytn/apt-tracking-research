@@ -15,6 +15,8 @@
 > - UNC2286
 >
 > - Flax Typhoon (Potentially; requires confirmation)
+>
+> - Volt Typhoon (CISA)
 ---
 
 ## 🧠 Overview
@@ -119,11 +121,11 @@ _(Add/remove rows as needed)_
 
 ## 📚 Key Intelligence Sources
 
-- [🔗 Mandiant Threat Profile](https://www.mandiant.com/)
+- [🔗 Mandiant Threat Profile - *Nothing Yet*](https://www.mandiant.com/)
 - [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
-- [🔗 CISA Alert or Advisory](https://www.cisa.gov/)
-- [🔗 CrowdStrike Blog / Report](https://www.crowdstrike.com/blog/)
+- [🔗 CrowdStrike Blog / Report - *Nothing Yet*](https://www.crowdstrike.com/blog/)
 - [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
+- [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a) 
 
 ---
 

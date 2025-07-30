@@ -37,7 +37,7 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 
 ## 🎯 Targeting Profile
 
-- Geographic regions targeted  
+- North America (USA), Asia (Taiwan), Africa  
 - Industry verticals  
 - Political or strategic motives (if known)
 
@@ -139,9 +139,7 @@ _(Add/remove rows as needed)_
 
 ## 🧪 Detection Notes / Hunting Ideas
 
-- Look for long-running PowerShell processes with no parent console window.
-- Correlate use of rundll32 with abnormal DLL paths.
-- Identify LSASS access attempts outside approved tooling.
+- To be added...
 
 ---
 ## :waning_crescent_moon: Potential Overlap - Need further research
@@ -160,4 +158,4 @@ _(Add/remove rows as needed)_
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-07-30*

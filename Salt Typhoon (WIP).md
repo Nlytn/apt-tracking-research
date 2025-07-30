@@ -142,6 +142,8 @@ _(Add/remove rows as needed)_
 - Identify LSASS access attempts outside approved tooling.
 
 ---
+:waning_crescent_moon:
+---
 
 ## 🧠 Analyst Notes
 

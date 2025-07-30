@@ -1,4 +1,4 @@
-# [APT Group Name] ([Alias(es)] — [Country or Sponsorship])
+# Salt Typhoon ([Alias(es)] — People's Republic of China (PRC))
 
 > **Example:** APT29 (Cozy Bear — Russia)
 
@@ -38,19 +38,19 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 
 | Tactic              | Technique        | ID     | Description                          |
 |---------------------|-----------|---------------|--------------------------------------|
-| Reconnaissance      | Network Topology | T1590.004 | Used configuration files from exploited network devices to help discover upstream and downstream network segments  |
-| Resource Development | Malware | T1587.001 |   | Employed custom tooling including JumbledPath
-| Resource Development | Tool | T1588.002 | Used publicly available tooling to exploit vulnerabilities  |
-| Initial Access      | Exploit Public Facing Application | T1190 | Exploited CVE-2018-0171 in the Smart Install feature of Cisco IOS and Cisco IOS XE software for initial access  |
-| Execution           | Create Account                    | T1136 | created Linux-level users on compromised network devices through modification of /etc/shadow and /etc/passwd   |
-| Persistence         | SSH Authorized Keys               | T1098.004 | added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
-| Privilege Escalation | SSH Authorized Keys              | T1098.004 | added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
-| Defense Evasion     | Disable or Modify System Firewall | T1562.004 | Made changes to Access Control List (ACL) and loopback interface address on compromised devices   |
-| Defense Evasion     | Indicator Removal: Clear Linux or Mac System Logs | T1070.002 | Cleared logs including .bash_history, auth.log, lastlog, wtmp, btmp   |
-| Credential Access   | Network Sniffing                  | T1040     | used a variety of tools and techniques to capture packet data between network interfaces  |
-| Credential Access   | Password Cracking                 | T1110.002 | cracked passwords for accounts with weak encryption obtained from the configuration files of compromised network devices  |
-| Discovery           | Network Sniffing                  | T1040     | used a variety of tools and techniques to capture packet data between network interfaces  |
-| Lateral Movement    | SSH                               | T1021.004 | has modified the loopback address on compromised switches and used them as the source of SSH connections to additional devices within the target environment, allowing them to bypass access control lists (ACLs).  |
+| Reconnaissance      | Network Topology | T1590.004 | Salt Typhoon has used configuration files from exploited network devices to help discover upstream and downstream network segments  |
+| Resource Development | Malware | T1587.001 |   | Salt Tyhpoon has employed custom tooling including JumbledPath
+| Resource Development | Tool | T1588.002 | Salt Typhoon has used publicly available tooling to exploit vulnerabilities  |
+| Initial Access      | Exploit Public Facing Application | T1190 | Salt Typhoon has exploited CVE-2018-0171 in the Smart Install feature of Cisco IOS and Cisco IOS XE software for initial access  |
+| Execution           | Create Account                    | T1136 | Salt Typhoon has created Linux-level users on compromised network devices through modification of /etc/shadow and /etc/passwd   |
+| Persistence         | SSH Authorized Keys               | T1098.004 | Salt Typhoon has added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
+| Privilege Escalation | SSH Authorized Keys              | T1098.004 | Salt Typhoon has added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
+| Defense Evasion     | Disable or Modify System Firewall | T1562.004 | Salt Typhoon has made changes to Access Control List (ACL) and loopback interface address on compromised devices   |
+| Defense Evasion     | Indicator Removal: Clear Linux or Mac System Logs | T1070.002 | Salt Typhoon has cleared logs including .bash_history, auth.log, lastlog, wtmp, btmp   |
+| Credential Access   | Network Sniffing                  | T1040     | Salt Typhoon has used a variety of tools and techniques to capture packet data between network interfaces  |
+| Credential Access   | Password Cracking                 | T1110.002 | Salt Typhoon has cracked passwords for accounts with weak encryption obtained from the configuration files of compromised network devices  |
+| Discovery           | Network Sniffing                  | T1040     | Salt Typhoon has used a variety of tools and techniques to capture packet data between network interfaces  |
+| Lateral Movement    | SSH                               | T1021.004 | Salt Typhoon has has modified the loopback address on compromised switches and used them as the source of SSH connections to additional devices within the target environment, allowing them to bypass access control lists (ACLs).  |
 | Collection          | Data from Configuration Repository: Network Device Configuration Dump | T1602.002 | Salt Typhoon has attempted to acquire credentials by dumping network device configurations. |
 | Command & Control   | Protocol Tunneling (GRE)           | T1572   | Salt Typhoon has modified device configurations to create and use Generic Routing Encapsulation (GRE) tunnels |
 

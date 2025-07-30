@@ -142,7 +142,10 @@ _(Add/remove rows as needed)_
 - Identify LSASS access attempts outside approved tooling.
 
 ---
-:waning_crescent_moon: Potential Overlap
+:waning_crescent_moon: Potential Overlap - Need further research
+- [🔗 Microsoft reports this could also be related to threat actor Flax Typhoon](https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/)
+- [🔗 Mandiant reports this threat shows overlap](https://cloud.google.com/blog/topics/threat-intelligence/cybercrime-multifaceted-national-security-threat) 
+
 ---
 
 ## 🧠 Analyst Notes

@@ -3,11 +3,11 @@
 
 
 > 1. **Aliases:**
-    *Earth Estries
-    *FamousSparrow
-    *GhostEmperor
-    *RedMike
-    *UNC2286
+      *Earth Estries
+      *FamousSparrow
+      *GhostEmperor
+      *RedMike
+      *UNC2286
 ---
 
 ## 🧠 Overview

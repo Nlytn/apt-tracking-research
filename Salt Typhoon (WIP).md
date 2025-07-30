@@ -40,8 +40,9 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 ## 🎯 Targeting Profile
 
 - North America (USA), Asia (Taiwan), Africa  
-- Industry verticals  
+- Industry verticals
 - Political or strategic motives (if known)
+-- Counterintelligence
 
 ---
 
@@ -75,12 +76,12 @@ _(Add/remove rows as needed)_
 
 | Tool / Malware | Purpose                | Notes                          |
 |----------------|------------------------|--------------------------------|
-| BitsAdmin           | {Uknown}               | {Uknown}                       |
+| BitsAdmin           | Uploads/downloads from web servers or file shares | {Uknown}|
 | CertUtil            | {Uknown}               | {Uknown}                       |
 | Cheat Engine driver | {Uknown}               | {Uknown}                       |
 | Cobalt Strike       | {Uknown}               | {Uknown}                       |
 | CrowDoor            | {Uknown}               | {Uknown}                       |
-| Demodex             | {Uknown}               | {Uknown}                       |
+| Demodex             | Windows Kernel-mode rootkit *need more context*| {Uknown} |
 | Get-PassHashes.ps1  | {Uknown}               | {Uknown}                       |
 | GhostSpider         | {Uknown}               | {Uknown}                       |
 | HEMIGATE            | {Uknown}               | {Uknown}                       |

@@ -2,7 +2,7 @@
 
 
 
-> **Aliases:**
+> 1. **Aliases:**
     *Earth Estries
     *FamousSparrow
     *GhostEmperor

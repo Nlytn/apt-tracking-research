@@ -17,8 +17,6 @@
 
 ## 🧠 Overview
 
-Brief description of the group. Who are they? What are they known for? Any affiliations (nation-state, financial motives, hacktivism)?
-
 Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has been active since at least 2019 and responsible for numerous compromises of network infrastructure at major U.S. telecommunication and internet service providers (ISP). - Mitre
 
 ---

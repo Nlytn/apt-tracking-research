@@ -33,7 +33,8 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 | Affiliated Entity  | PRC/Unknown                   |
 | First Observed     | 2019                          |
 | Target Sectors     | Telecom/ISP/Government        |
-| Notable Operations | *Nothing yet, but still looking*|
+| Notable Operations | Campaign Alpha - Taiwanese Government and Chemical Company *needs more context/details* (TrendMicro)|
+| Notable Operations | Campaign Beta - Telecommunications and Government Entities (US & Others) *needs more context/details* (TrendMicro)|
 
 ---
 

@@ -79,7 +79,7 @@ _(Add/remove rows as needed)_
 ## 📚 Key Intelligence Sources
 
 - [🔗 Mandiant Threat Profile](https://www.mandiant.com/)
-- [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/)
+- [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
 - [🔗 CISA Alert or Advisory](https://www.cisa.gov/)
 - [🔗 CrowdStrike Blog / Report](https://www.crowdstrike.com/blog/)
 - [🔗 [Report Title]](https://...)

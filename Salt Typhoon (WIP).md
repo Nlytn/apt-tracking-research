@@ -62,9 +62,8 @@ _(Add/remove rows as needed)_
 
 | Tool / Malware | Purpose                | Notes                          |
 |----------------|------------------------|--------------------------------|
-| Cobalt Strike  | C2 Framework           | Used heavily in later stages   |
-| WellMess       | Custom backdoor        | Seen in 2020 UK vaccine attack |
-| Mimikatz       | Credential Access Tool | Standard credential dumper     |
+| {Uknown}       | {Uknown}               | {Uknown}                       |
+
 
 ---
 

@@ -128,6 +128,7 @@ _(Add/remove rows as needed)_
 - [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
 - [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
 - [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
+- [🔗 TrendMicro - Unveiling Long Term Earth Estries Cyber Intrusions](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
 
 ---
 
@@ -135,8 +136,44 @@ _(Add/remove rows as needed)_
 
 | Type       | Value                         | Description     |
 |------------|-------------------------------|-----------------|
-| IP Address | 185.143.223.101               | C2 Server       |
-| Domain     | example-mail[.]com            | Phishing domain |
+| IP Address | 103.91.64.214                 | Demodex       |
+| IP Address | 165.154.227.192               | frpc       |
+| IP Address | 23.81.41.166	                 | Open directory C&C       |
+| IP Address | 158.247.222.165               | SNAPPYBEE       |
+| IP Address | 172.93.165.14	               | related C&C       |
+| IP Address | 91.245.253.27	               | SNAPPYBEE       |
+| IP Address | 103.75.190.73	               | related C&C       |
+| IP Address | 45.125.67.144	               | Demodex       |
+| IP Address | 43.226.126.164               | Demodex       |
+| IP Address | 172.93.165.10	               | Demodex       |
+| IP Address | 193.239.86.168               | Demodex       |
+| IP Address | 146.70.79.18               | Demodex       |
+| IP Address | 185.143.223.101               | Demodex       |
+| IP Address | 205.189.160.3               | Demodex       |
+| IP Address | 96.9.211.27               | Demodex       |
+| IP Address | 43.226.126.165               | Demodex       |
+| IP Address | 139.59.108.43               | GHOSTSPIDER       |
+| IP Address | 185.105.1.243	               | GHOSTSPIDER       |
+| IP Address | 143.198.92.175               | GHOSTSPIDER       |
+| IP Address | 139.99.114.108               | GHOSTSPIDER       |
+| IP Address | 139.59.236.31	               | GHOSTSPIDER       |
+| IP Address | 104.194.153.65               | GHOSTSPIDER       |
+| Domain     | materialplies.com            | Campaign Alpha (related C&C) |
+| Domain     | news.colourtinctem.com            | Campaign Alpha (related C&C) |
+| Domain     | api.solveblemten.com            | Campaign Alpha (SNAPPYBEE) |
+| Domain     | esh.hoovernamosong.com            | Campaign Alpha (SNAPPYBEE) |
+| Domain     | vpn114240349.softether.net            | Campaign Alpha (SoftEther VPN) |
+| Domain     | imap.dateupdata.com            | Campaign Beta (DEMODEX) |
+| Domain     | pulseathermakf.com            | Campaign Beta (DEMODEX) |
+| Domain     | www.infraredsen.com            | Campaign Beta (DEMODEX) |
+| Domain     | billing.clothworls.com            | Campaign Beta (GHOSTSPIDER) |
+| Domain     | helpdesk.stnekpro.com            | Campaign Beta (GHOSTSPIDER) |
+| Domain     | jasmine.lhousewares.com            | Campaign Beta (GHOSTSPIDER) |
+| Domain     | private.royalnas.com            | Campaign Beta (GHOSTSPIDER) |
+| Domain     | telcom.grishamarkovgf8936.workers.dev            | Campaign Beta (GHOSTSPIDER) |
+| Domain     | vpn305783366.softether.net            | Campaign Beta (SoftEther VPN) |
+| Domain     | vpn487875652.softether.net            | Campaign Beta (SoftEther VPN) |
+| Domain     | vpn943823465.softether.net            | Campaign Beta (SoftEther VPN) |
 | SHA256     | f3a90e8fa...                  | Payload hash    |
 
 ---

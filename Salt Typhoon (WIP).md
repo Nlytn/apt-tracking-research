@@ -76,10 +76,10 @@ _(Add/remove rows as needed)_
 
 | Tool / Malware | Purpose                | Notes                          |
 |----------------|------------------------|--------------------------------|
-| BitsAdmin           | Uploads/downloads from web servers or file shares | {Uknown}|
-| CertUtil            | Managing certificates, certificate chains and CA configurations | {Uknown} |
-| Cheat Engine driver | Compiler for cheating in video games | {Uknown} |
-| Cobalt Strike       | Commercial Pentesting Tool | {Uknown}                       |
+| BitsAdmin           | Uploads/downloads from web servers or file shares | {Unknown}|
+| CertUtil            | Managing certificates, certificate chains and CA configurations | {Unknown} |
+| Cheat Engine driver | Compiler for cheating in video games | {Unknown} |
+| Cobalt Strike       | Commercial Pentesting Tool | {Unknown}                       |
 | CrowDoor            | Backdoor program *need more context* | Installed using CAB files and used to collect data from local systems and shared drives [🔗 Link to source of information - Pulsedive](https://pulsedive.com/threat/Crowdoor)|
 | Demodex             | Windows Kernel-mode rootkit *need more context*| {Uknown} |
 | Get-PassHashes.ps1  | {Unknown}               | {Unknown}                       |

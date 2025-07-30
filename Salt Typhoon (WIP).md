@@ -125,7 +125,8 @@ _(Add/remove rows as needed)_
 - [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
 - [🔗 CrowdStrike Blog / Report - *Nothing Yet*](https://www.crowdstrike.com/blog/)
 - [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
-- [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a) 
+- [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
+- [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
 
 ---
 

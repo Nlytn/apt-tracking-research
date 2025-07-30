@@ -1,4 +1,6 @@
-# Salt Typhoon ([Alias(es)] — People's Republic of China (PRC))
+# Salt Typhoon — People's Republic of China (PRC))
+
+
 
 > **Example:** APT29 (Cozy Bear — Russia)
 

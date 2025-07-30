@@ -42,7 +42,7 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 - North America (USA), Asia (Taiwan), Africa  
 - Industry verticals
 3. Political or strategic motives (if known)
-  * Counterintelligence
+   * Counterintelligence
 
 ---
 

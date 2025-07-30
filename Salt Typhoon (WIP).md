@@ -8,8 +8,7 @@
 
 Brief description of the group. Who are they? What are they known for? Any affiliations (nation-state, financial motives, hacktivism)?
 
-> _Example:_  
-APT29 is a Russian cyber espionage group affiliated with the Russian Foreign Intelligence Service (SVR). Known for stealthy, long-term intrusions targeting diplomatic, governmental, and energy sector organizations.
+Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has been active since at least 2019 and responsible for numerous compromises of network infrastructure at major U.S. telecommunication and internet service providers (ISP). - Mitre
 
 ---
 
@@ -17,10 +16,10 @@ APT29 is a Russian cyber espionage group affiliated with the Russian Foreign Int
 
 | Attribute          | Details                       |
 |--------------------|-------------------------------|
-| Suspected Origin   | [Country]                     |
-| Affiliated Entity  | [SVR / PLA / APT Center 5, etc.] |
-| First Observed     | [Year or Campaign]            |
-| Target Sectors     | [Govt, Energy, Healthcare, etc.] |
+| Suspected Origin   | China                         |
+| Affiliated Entity  | PRC/Unknown                   |
+| First Observed     | 2019                          |
+| Target Sectors     | Telecom/ISP/Government        |
 | Notable Operations | [Operation X, Campaign Y]     |
 
 ---
@@ -37,13 +36,23 @@ APT29 is a Russian cyber espionage group affiliated with the Russian Foreign Int
 
 > Based on MITRE ATT&CK mappings
 
-| Tactic              | Technique | ID     | Description                        |
-|---------------------|-----------|--------|------------------------------------|
-| Initial Access      | Spearphishing Attachment | T1566.001 | Malicious document lures          |
-| Execution           | PowerShell               | T1059.001 | Script-based payload execution    |
-| Persistence         | Scheduled Task           | T1053.005 | Recurring tasks for persistence   |
-| Credential Access   | LSASS Dumping            | T1003.001 | Credential theft from memory      |
-| Command & Control   | HTTPS                    | T1071.001 | Encrypted C2 over port 443        |
+| Tactic              | Technique        | ID     | Description                          |
+|---------------------|-----------|---------------|--------------------------------------|
+| Reconnaissance      | Network Topology | T1590.004 | Used configuration files from exploited network devices to help discover upstream and downstream network segments  |
+| Resource Development | Malware | T1587.001 |   | Employed custom tooling including JumbledPath
+| Resource Development | Tool | T1588.002 | Used publicly available tooling to exploit vulnerabilities  |
+| Initial Access      | Exploit Public Facing Application | T1190 | Exploited CVE-2018-0171 in the Smart Install feature of Cisco IOS and Cisco IOS XE software for initial access  |
+| Execution           | Create Account                    | T1136 | created Linux-level users on compromised network devices through modification of /etc/shadow and /etc/passwd   |
+| Persistence         | SSH Authorized Keys               | T1098.004 | added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
+| Privilege Escalation | SSH Authorized Keys              | T1098.004 | added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
+| Defense Evasion     | Disable or Modify System Firewall | T1562.004 | Made changes to Access Control List (ACL) and loopback interface address on compromised devices   |
+| Defense Evasion     | Indicator Removal: Clear Linux or Mac System Logs | T1070.002 | Cleared logs including .bash_history, auth.log, lastlog, wtmp, btmp   |
+| Credential Access   | Network Sniffing                  | T1040     | used a variety of tools and techniques to capture packet data between network interfaces  |
+| Credential Access   | Password Cracking                 | T1110.002 | cracked passwords for accounts with weak encryption obtained from the configuration files of compromised network devices  |
+| Discovery           | Network Sniffing                  | T1040     | used a variety of tools and techniques to capture packet data between network interfaces  |
+| Lateral Movement    | SSH                               | T1021.004 | has modified the loopback address on compromised switches and used them as the source of SSH connections to additional devices within the target environment, allowing them to bypass access control lists (ACLs).  |
+| Collection          | Data from Configuration Repository: Network Device Configuration Dump | T1602.002 | Salt Typhoon has attempted to acquire credentials by dumping network device configurations. |
+| Command & Control   | Protocol Tunneling (GRE)           | T1572   | Salt Typhoon has modified device configurations to create and use Generic Routing Encapsulation (GRE) tunnels |
 
 _(Add/remove rows as needed)_
 

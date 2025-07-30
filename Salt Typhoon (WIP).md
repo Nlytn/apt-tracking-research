@@ -82,30 +82,30 @@ _(Add/remove rows as needed)_
 | Cobalt Strike       | Commercial Pentesting Tool | {Uknown}                       |
 | CrowDoor            | Backdoor program *need more context* | Installed using CAB files and used to collect data from local systems and shared drives [🔗 Link to source of information - Pulsedive](https://pulsedive.com/threat/Crowdoor)|
 | Demodex             | Windows Kernel-mode rootkit *need more context*| {Uknown} |
-| Get-PassHashes.ps1  | {Uknown}               | {Uknown}                       |
-| GhostSpider         | {Uknown}               | {Uknown}                       |
-| HEMIGATE            | {Uknown}               | {Uknown}                       |
-| JumbledPath         | {Uknown}               | {Uknown}                       |
-| Ladon               | {Uknown}               | {Uknown}                       |
-| Malleable C2        | Command & Control      | {Uknown}                       |
-| Masol RAT           | {Uknown}               | {Uknown}                       |
-| mimkat_ssp          | {Uknown}               | {Uknown}                       |
-| NBTscan             | {Uknown}               | {Uknown}                       |
-| Powercat            | {Uknown}               | {Uknown}                       |
-| Powershell          | {Uknown}               | {Uknown}                       |
-| ProcDump            | {Uknown}               | {Uknown}                       |
-| PsExec              | {Uknown}               | {Uknown}                       |
-| PsList              | {Uknown}               | {Uknown}                       |
-| ShadowPad           | {Uknown}               | {Uknown}                       |
-| SMB                 | {Uknown}               | {Uknown}                       |
-| SnappyBee           | {Uknown}               | {Uknown}                       |
-| SparrowDoor         | {Uknown}               | {Uknown}                       |
-| Token.exe           | {Uknown}               | {Uknown}                       |
-| TrillClient         | {Uknown}               | {Uknown}                       |
-| WinRAR              | {Uknown}               | {Uknown}                       |
-| WMIC                | {Uknown}               | {Uknown}                       |
-| WMIExec             | {Uknown}               | {Uknown}                       |
-| ZINGDOOR            | {Uknown}               | {Uknown}                       |
+| Get-PassHashes.ps1  | {Unknown}               | {Unknown}                       |
+| GhostSpider         | {Unknown}               | {Unknown}                       |
+| HEMIGATE            | {Unknown}               | {Unknown}                       |
+| JumbledPath         | {Unknown}               | {Unknown}                       |
+| Ladon               | {Unknown}               | {Unknown}                       |
+| Malleable C2        | Command & Control      | {Unknown}                       |
+| Masol RAT           | {Unknown}               | {Unknown}                       |
+| mimkat_ssp          | {Unknown}               | {Unknown}                       |
+| NBTscan             | {Unknown}               | {Unknown}                       |
+| Powercat            | {Unknown}               | {Unknown}                       |
+| Powershell          | {Unknown}               | {Unknown}                       |
+| ProcDump            | {Unknown}               | {Unknown}                       |
+| PsExec              | {Unknown}               | {Unknown}                       |
+| PsList              | {Unknown}               | {Unknown}                       |
+| ShadowPad           | {Unknown}               | {Unknown}                       |
+| SMB                 | {Unknown}               | {Unknown}                       |
+| SnappyBee           | {Unknown}               | {Unknown}                       |
+| SparrowDoor         | {Unknown}               | {Unknown}                       |
+| Token.exe           | {Unknown}               | {Unknown}                       |
+| TrillClient         | {Unknown}               | {Unknown}                       |
+| WinRAR              | {Unknown}               | {Unknown}                       |
+| WMIC                | {Unknown}               | {Unknown}                       |
+| WMIExec             | {Unknown}               | {Unknown}                       |
+| ZINGDOOR            | {Unknown}               | {Unknown}                       |
 
 
 

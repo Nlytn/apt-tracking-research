@@ -71,7 +71,37 @@ _(Add/remove rows as needed)_
 
 | Tool / Malware | Purpose                | Notes                          |
 |----------------|------------------------|--------------------------------|
-| {Uknown}       | {Uknown}               | {Uknown}                       |
+| BitsAdmin           | {Uknown}               | {Uknown}                       |
+| CertUtil            | {Uknown}               | {Uknown}                       |
+| Cheat Engine driver | {Uknown}               | {Uknown}                       |
+| Cobalt Strike       | {Uknown}               | {Uknown}                       |
+| CrowDoor            | {Uknown}               | {Uknown}                       |
+| Demodex             | {Uknown}               | {Uknown}                       |
+| Get-PassHashes.ps1  | {Uknown}               | {Uknown}                       |
+| GhostSpider         | {Uknown}               | {Uknown}                       |
+| HEMIGATE            | {Uknown}               | {Uknown}                       |
+| JumbledPath         | {Uknown}               | {Uknown}                       |
+| Ladon               | {Uknown}               | {Uknown}                       |
+| Malleable C2        | Command & Control      | {Uknown}                       |
+| Masol RAT           | {Uknown}               | {Uknown}                       |
+| mimkat_ssp          | {Uknown}               | {Uknown}                       |
+| NBTscan             | {Uknown}               | {Uknown}                       |
+| Powercat            | {Uknown}               | {Uknown}                       |
+| Powershell          | {Uknown}               | {Uknown}                       |
+| ProcDump            | {Uknown}               | {Uknown}                       |
+| PsExec              | {Uknown}               | {Uknown}                       |
+| PsList              | {Uknown}               | {Uknown}                       |
+| ShadowPad           | {Uknown}               | {Uknown}                       |
+| SMB                 | {Uknown}               | {Uknown}                       |
+| SnappyBee           | {Uknown}               | {Uknown}                       |
+| SparrowDoor         | {Uknown}               | {Uknown}                       |
+| Token.exe           | {Uknown}               | {Uknown}                       |
+| TrillClient         | {Uknown}               | {Uknown}                       |
+| WinRAR              | {Uknown}               | {Uknown}                       |
+| WMIC                | {Uknown}               | {Uknown}                       |
+| WMIExec             | {Uknown}               | {Uknown}                       |
+| ZINGDOOR            | {Uknown}               | {Uknown}                       |
+
 
 
 ---
@@ -91,7 +121,7 @@ _(Add/remove rows as needed)_
 - [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
 - [🔗 CISA Alert or Advisory](https://www.cisa.gov/)
 - [🔗 CrowdStrike Blog / Report](https://www.crowdstrike.com/blog/)
-- [🔗 [Report Title]](https://...)
+- [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
 
 ---
 

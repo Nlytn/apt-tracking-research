@@ -85,8 +85,8 @@ _(Add/remove rows as needed)_
 | Cobalt Strike       | Commercial Pentesting Tool | {Unknown}                       |
 | CrowDoor            | Backdoor program *need more context* | Installed using CAB files and used to collect data from local systems and shared drives [🔗 Link to source of information - Pulsedive](https://pulsedive.com/threat/Crowdoor)|
 | Demodex             | Windows Kernel-mode rootkit *need more context*| {Uknown} |
-| Get-PassHashes.ps1  | {Unknown}               | {Unknown}                       |
-| GhostSpider         | {Unknown}               | {Unknown}                       |
+| Get-PassHashes.ps1  | {Unknown}               | Rootkit used to maintain access and invisibility |
+| GhostSpider         | {Unknown}               | Backdoor program- TLS encrypted C&C communication |
 | HEMIGATE            | {Unknown}               | {Unknown}                       |
 | JumbledPath         | {Unknown}               | {Unknown}                       |
 | Ladon               | {Unknown}               | {Unknown}                       |
@@ -179,7 +179,7 @@ _(Add/remove rows as needed)_
 | Domain     | vpn943823465.softether.net            | Campaign Beta (SoftEther VPN) |
 | Log Entry - PowerShell  | Powershell.exe -ex bypass c:\windows\assembly\onedrived.ps1 | Install demodex rootkit    |
 | SHA256     | f3a90e8fa...                  | Payload hash    |
-
+| Service/Export Name | spider.dll | First-stage stager [Initial infection and stager deployment](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
 
 [🔗 Source of IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
 

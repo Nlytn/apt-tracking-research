@@ -83,11 +83,11 @@ _(Add/remove rows as needed)_
 | CertUtil            | Managing certificates, certificate chains and CA configurations | {Unknown} |
 | Cheat Engine driver | Compiler for cheating in video games | {Unknown} |
 | Cobalt Strike       | Commercial Pentesting Tool | {Unknown}                       |
-| CrowDoor            | Backdoor program *need more context* | Installed using CAB files and used to collect data from local systems and shared drives [🔗 Link to source of information - Pulsedive](https://pulsedive.com/threat/Crowdoor)|
-| Demodex             | Windows Kernel-mode rootkit *need more context*| {Uknown} |
-| Get-PassHashes.ps1  | {Unknown}               | Rootkit used to maintain access and invisibility |
-| GhostSpider         | {Unknown}               | Backdoor program- TLS encrypted C&C communication |
-| HEMIGATE            | {Unknown}               | {Unknown}                       |
+| CrowDoor            | Backdoor program  | Installed using CAB files and used to collect data from local systems and shared drives [🔗 Link to source of information - Pulsedive](https://pulsedive.com/threat/Crowdoor)|
+| Demodex             | Windows Kernel-mode rootkit | Rootkit used to maintain access and invisibility |
+| Get-PassHashes.ps1  | Dump password hashes to obtain user access       | The payload dumps password hashes using the modified powerdump script from MSF - [Link to Download](https://github.com/samratashok/nishang/blob/master/Gather/Get-PassHashes.ps1)  |
+| GhostSpider         | Backdoor program        | TLS encrypted C&C communication |
+| HEMIGATE            | Backdoor program        | Sideloaded with another program - K7AVMScn.exe/K7AVWScn.dll (K7 Computing) [TrendMicro Report](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)|
 | JumbledPath         | {Unknown}               | {Unknown}                       |
 | Ladon               | {Unknown}               | {Unknown}                       |
 | Malleable C2        | Command & Control      | {Unknown}                       |
@@ -179,7 +179,8 @@ _(Add/remove rows as needed)_
 | Domain     | vpn943823465.softether.net            | Campaign Beta (SoftEther VPN) |
 | Log Entry - PowerShell  | Powershell.exe -ex bypass c:\windows\assembly\onedrived.ps1 | Install demodex rootkit    |
 | SHA256     | f3a90e8fa...                  | Payload hash    |
-| Service/Export Name | spider.dll | First-stage stager [Initial infection and stager deployment](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
+| Service/Export Name | spider.dll / core.dll | First-stage stager [Initial infection and stager deployment](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
+
 
 [🔗 Source of IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
 

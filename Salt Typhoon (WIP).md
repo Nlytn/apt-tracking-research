@@ -2,12 +2,12 @@
 
 
 
-> 1. **Aliases:**
-           * Earth Estries
-           * FamousSparrow
-           * GhostEmperor
-           * RedMike
-           * UNC2286
+> **Aliases:**
+>>Earth Estries
+>>FamousSparrow
+>>GhostEmperor
+>>RedMike
+>>UNC2286
 ---
 
 ## 🧠 Overview

@@ -16,7 +16,7 @@
 >
 > - Flax Typhoon (Potentially; requires confirmation)
 >
-> - Volt Typhoon (CISA)
+
 ---
 
 ## 🧠 Overview

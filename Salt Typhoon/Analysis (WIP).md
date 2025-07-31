@@ -6,9 +6,9 @@
 >
 > - Earth Estries
 >
-> - FamousSparrow
+> - FamousSparrow (ESET)
 >
-> - GhostEmperor
+> - GhostEmperor (Kaspersky)
 >
 > - RedMike
 >
@@ -143,6 +143,8 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [TrendMicro IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
 - [Mitre ATT&CK Layout for Salt Typhoon](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
 - [TrendMicro - Further Research - To Be Reviewed](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)
+- [Recorded Future - Redmike Exploits Vulnerable Cisco Devices of Global Telecommunications Providers](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
+- [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
 
 ---
 

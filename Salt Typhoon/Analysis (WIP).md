@@ -75,8 +75,8 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 ### ATT&CK Mapping
 
 This snapshot shows the known TTPs associated with Salt Typhoon:
-  *![ATT&CK Matrix for Salt Typhoon](image to be inserted soon)
-  *[🔗 Click here to view the full interactive matrix in MITRE ATT&CK Navigator.](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
+  * ![ATT&CK Matrix for Salt Typhoon](image to be inserted soon)
+  * [🔗 Click here to view the full interactive matrix in MITRE ATT&CK Navigator.](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
 
 
 ---

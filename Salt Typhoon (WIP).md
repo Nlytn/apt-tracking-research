@@ -133,6 +133,9 @@ _(Add/remove rows as needed)_
 - [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
 - [🔗 TrendMicro - Unveiling Long Term Earth Estries Cyber Intrusions](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
 - [ Wikipedia Entry](https://en.wikipedia.org/wiki/Salt_Typhoon)
+- [Varonis Labs Report](https://www.varonis.com/blog/salt-typhoon)
+- [TrendMicro IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
+- [Mitre ATT&CK Layout for Salt Typhoon](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
 
 ---
 

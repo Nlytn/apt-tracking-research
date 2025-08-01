@@ -94,7 +94,7 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 | Get-PassHashes.ps1  | Dump password hashes to obtain user access       | The payload dumps password hashes using the modified powerdump script from MSF - [Link to Download](https://github.com/samratashok/nishang/blob/master/Gather/Get-PassHashes.ps1)  |
 | GhostSpider         | Backdoor program        | TLS encrypted C&C communication |
 | HEMIGATE            | Backdoor program        | Sideloaded with another program - K7AVMScn.exe/K7AVWScn.dll (K7 Computing) [TrendMicro Report](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)|
-| JumbledPath         | {Unknown}               | {Unknown}                       |
+| JumbledPath         | Path obfuscation        | Custom-made tool used specifically to obfuscate original source and ultimate destination of request; also allowed operator to move through potentially otherwise non-publicly-reachable devices/infrastructure |
 | Ladon               | {Unknown}               | {Unknown}                       |
 | Malleable C2        | Command & Control      | {Unknown}                       |
 | Masol RAT           | {Unknown}               | {Unknown}                       |

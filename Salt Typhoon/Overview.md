@@ -47,4 +47,7 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 
 Attack Flow is as follows (WIP:
 * Recon -> Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
+* Once targets were acquired, scans were run against the devices; these scans led to discovery of CVE-2023-20198 as an opening.
+* Leveraging this vulnerability, the actor was able to gain initial access into the target network.
+    * The actor then issued a privilege 15 command to create a local user/password combination
 * 

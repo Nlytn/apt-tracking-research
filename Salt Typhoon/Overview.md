@@ -37,7 +37,7 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
   * 2025-01-13
   * 2025-01-23
 
-* Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike including:
+* Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike including devices associated with:
   * US Based affiliate of a UK telecommunications provider
   * US internet service provider (ISP) and telecommunications company
   * South African telecommunications provider
@@ -47,11 +47,16 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 
 Attack Flow is as follows (WIP):
 ---
-* Recon -> Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
-* Once targets were acquired, scans were run against the devices; these scans led to discovery of CVE-2023-20198 as an opening.
-* Leveraging this vulnerability, the actor was able to gain initial access into the target network. This exploit allows the actor to bypass authentication to reach the webui_wsma_http endpoint. Executing the exploit allows arbitrary Cisco IOS commands or configuration changes to be issued with Privilege 15 privileges
-    * Privilege 15 is the higest privileges available on Cisco devices
+* Recon:  Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
+    * Once targets were acquired, scans were run against the devices; these scans led to discovery of CVE-2023-20198 as an opening.
+* Initial Access: Leveraging this vulnerability, the actor was able to gain initial access into the target network. This exploit allows the actor to bypass authentication to reach the webui_wsma_http endpoint. Executing the exploit allows arbitrary Cisco IOS commands or configuration changes to be issued with Privilege 15 privileges
+    * Privilege 15 is the *highest* privilege level available on Cisco devices
     * The actor used this ability to create a new local account
 * Next, the actor leveraged CVE-2023-20273 to elevate the new account to root level
-    *  Due to insufficient input validation, remote attacker could exploit vulnerability by sending crafted input to web UI
+    *  Due to insufficient input validation, actor could remotely exploit vulnerability by sending crafted input to web UI.
+    *  This allowed the actor to elevate privileges of newly created account
+*  The actor then created GRE tunnels between their own infrastructure and the compromised Cisco devices, likely in attempts to set up exfiltration pipelines.
+*  Questions:
+    * What were their next steps? How did they pivot, and what did they target?
+    * What was the target information? RecordedFuture appears to think its related to research on telecommunications, engineering and technology.
  

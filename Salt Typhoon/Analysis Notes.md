@@ -130,28 +130,6 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 
 ---
 
-## 📚 Key Intelligence Sources
-
-- [🔗 Mandiant Threat Profile - *Nothing Yet*](https://www.mandiant.com/)
-- [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
-- [🔗 CrowdStrike Blog / Report - *Nothing Yet*](https://www.crowdstrike.com/blog/)
-- [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
-- [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
-- [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
-- [🔗 TrendMicro - Unveiling Long Term Earth Estries Cyber Intrusions](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
-- [ Wikipedia Entry](https://en.wikipedia.org/wiki/Salt_Typhoon)
-- [Varonis Labs Report](https://www.varonis.com/blog/salt-typhoon)
-- [TrendMicro IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
-- [Mitre ATT&CK Layout for Salt Typhoon](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
-- [TrendMicro - Further Research - To Be Reviewed](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)
-- [Recorded Future - Redmike Exploits Vulnerable Cisco Devices of Global Telecommunications Providers](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
-- [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
-- [CVE-2023-20198 POC](https://github.com/smokeintheshell/CVE-2023-20198)
-- [CVE-2023-20273 POC](https://github.com/smokeintheshell/CVE-2023-20273)
-- [CVE-2023-20198 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
-- [CVE-2023-20273 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20273)
-
----
 
 ## 📂 Indicators of Compromise (IOCs)
 
@@ -225,4 +203,28 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 
 ---
 
-*Last updated: 2025-07-30*
+## 📚 Key Intelligence Sources
+
+- [🔗 Mandiant Threat Profile - *Nothing Yet*](https://www.mandiant.com/)
+- [🔗 MITRE ATT&CK Entry](https://attack.mitre.org/groups/G1045/)
+- [🔗 CrowdStrike Blog / Report - *Nothing Yet*](https://www.crowdstrike.com/blog/)
+- [🔗 FortiGuard Labs Report](https://www.fortiguard.com/threat-actor/5557/salt-typhoon)
+- [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
+- [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
+- [🔗 TrendMicro - Unveiling Long Term Earth Estries Cyber Intrusions](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
+- [ Wikipedia Entry](https://en.wikipedia.org/wiki/Salt_Typhoon)
+- [Varonis Labs Report](https://www.varonis.com/blog/salt-typhoon)
+- [TrendMicro IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)
+- [Mitre ATT&CK Layout for Salt Typhoon](https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG1045%2FG1045-enterprise-layer.json)
+- [TrendMicro - Further Research - To Be Reviewed](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)
+- [Recorded Future - Redmike Exploits Vulnerable Cisco Devices of Global Telecommunications Providers](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
+- [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
+- [CVE-2023-20198 POC](https://github.com/smokeintheshell/CVE-2023-20198)
+- [CVE-2023-20273 POC](https://github.com/smokeintheshell/CVE-2023-20273)
+- [CVE-2023-20198 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
+- [CVE-2023-20273 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20273)
+
+---
+
+
+*Last updated: 2025-08-01*

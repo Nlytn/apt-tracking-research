@@ -11,6 +11,6 @@ CVE-2023-20198, CVE-2023-20273 - Multiple Vulnerabilities in Cisco IOS XE Softwa
 CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last Updated: 17-Sep-2024)
 
 * Compromise account
-    * Once access is secured, the attacker sniffs for TACACS/RADIUS traffic, as well as SNMP, in hopes of capturing traffic w/ keys for later decryption
 * Find other credential hashes
+     * Once access is secured, the attacker sniffs for TACACS/RADIUS traffic, as well as SNMP, in hopes of capturing traffic w/ keys for later decryption
 * Exfiltrate those to crack offline

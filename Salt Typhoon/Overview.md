@@ -14,3 +14,8 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 * Find other credential hashes
      * Once access is secured, the attacker sniffs for TACACS/RADIUS traffic, as well as SNMP, in hopes of capturing traffic w/ keys for later decryption
 * Exfiltrate those to crack offline
+* Move laterally to other network devices
+* Hit initial Telecom provider in order to pivot to a different provider
+
+
+      

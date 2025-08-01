@@ -27,4 +27,21 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
           * Actors exploited this vulnerability to gain initial access to the device and issue a *privilege 15 command* to create a local user and password.
       * CVE-2023-20273 -> Subsequent to the previous exploit, once an account has been created this vulnerability is leveraged to gain *root user privileges* 
 * When successful, group uses new privileged user account to change device's configuration and adds a GRE tunnel for persistent access and data exfiltration
-* 
+* It is believed the targets were telecommunications providers and universities
+      * It is believed the targets were research in areas related to telecommunications, engineering, and technology
+* Scanning and exploitation activity was recorded on six (6) different occasions between December 2024 and January 2025
+      * 2024-12-04
+      * 2024-12-10
+      * 2024-12-17
+      * 2024-12-24
+      * 2025-01-13
+      * 2025-01-23
+
+* Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike
+      * US Based affiliate of a UK telecommunications provider
+      * US internet service provider (ISP) and telecommunications company
+      * Soutn African telecommunications provider
+      * Italian ISP
+      * A large Thailand telecommunications provider
+
+

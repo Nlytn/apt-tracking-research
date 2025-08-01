@@ -10,6 +10,6 @@ CVE-2018-0171 - Cisco IOS and IOS XE Software Smart Install Remote Code Executio
 CVE-2023-20198, CVE-2023-20273 - Multiple Vulnerabilities in Cisco IOS XE Software Web UI Feature (Last Updated: 1-Nov-2023)
 CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last Updated: 17-Sep-2024)
 
-Compromise account
+Compromise account /n
 Find other credential hashes
 Exfiltrate those to crack offline

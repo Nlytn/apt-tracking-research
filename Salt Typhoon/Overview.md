@@ -18,7 +18,7 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 * Hit initial Telecom provider in order to pivot to a different provider
 
 
-[Recorded Future analysis (See section "Technical Analysis"](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
+[Recorded Future analysis (See section "Technical Analysis")](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
 ---
 * First noticed in 2024
 * Attempted to exploit over 1,000 internet-facing Cisco network devices worldwide (primarily telecommunications providers)
@@ -45,3 +45,6 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
   * A large Thailand telecommunications provider
 
 
+Attack Flow is as follows (WIP:
+* Recon -> Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
+* 

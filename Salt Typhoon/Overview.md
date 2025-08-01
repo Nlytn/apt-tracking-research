@@ -52,5 +52,5 @@ Attack Flow is as follows (WIP):
     * Privilege 15 is the higest privileges available on Cisco devices
     * The actor used this ability to create a new local account
 * Next, the actor leveraged CVE-2023-20273 to elevate the new account to root level
-    *  
+    *  Due to insufficient input validation, remote attacker could exploit vulnerability by sending crafted input to web UI
  

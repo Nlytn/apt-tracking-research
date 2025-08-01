@@ -24,6 +24,7 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 * Attempted to exploit over 1,000 internet-facing Cisco network devices worldwide (primarily telecommunications providers)
     * Used combination of two **privilege escalation** vulnerabilities:
       * CVE-2023-20198 -> found in Cisco IOS XE software web UI feature (version 16 and earlier) -> published by Cisco in 2023
-      * CVE-2023-20273
+          * Actors exploited this vulnerability to gain initial access to the device and issue a *privilege 15 command* to create a local user and password.
+      * CVE-2023-20273 -> Subsequent to the previous exploit, once an account has been created this vulnerability is leveraged to gain *root user privileges* 
 * When successful, group uses new privileged user account to change device's configuration and adds a GRE tunnel for persistent access and data exfiltration
 * 

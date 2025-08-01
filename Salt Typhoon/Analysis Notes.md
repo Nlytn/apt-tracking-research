@@ -147,6 +147,7 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [Recorded Future - Redmike Exploits Vulnerable Cisco Devices of Global Telecommunications Providers](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
 - [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
 - [CVE-2023-20198 POC](https://github.com/smokeintheshell/CVE-2023-20198)
+- [NIST NVD Description](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
 
 ---
 

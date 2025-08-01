@@ -146,6 +146,7 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [TrendMicro - Further Research - To Be Reviewed](https://www.trendmicro.com/en_us/research/23/h/earth-estries-targets-government-tech-for-cyberespionage.html)
 - [Recorded Future - Redmike Exploits Vulnerable Cisco Devices of Global Telecommunications Providers](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
 - [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
+- NIST NVD
 
 ---
 

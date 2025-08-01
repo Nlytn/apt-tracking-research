@@ -37,10 +37,10 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
       * 2025-01-13
       * 2025-01-23
 
-* Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike
+* Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike including:
   * US Based affiliate of a UK telecommunications provider
   * US internet service provider (ISP) and telecommunications company
-  * Soutn African telecommunications provider
+  * South African telecommunications provider
   * Italian ISP
   * A large Thailand telecommunications provider
 

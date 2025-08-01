@@ -30,12 +30,12 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 * It is believed the targets were telecommunications providers and universities
       * It is believed the targets were research in areas related to telecommunications, engineering, and technology
 * Scanning and exploitation activity was recorded on six (6) different occasions between December 2024 and January 2025
-      * 2024-12-04
-      * 2024-12-10
-      * 2024-12-17
-      * 2024-12-24
-      * 2025-01-13
-      * 2025-01-23
+  * 2024-12-04
+  * 2024-12-10
+  * 2024-12-17
+  * 2024-12-24
+  * 2025-01-13
+  * 2025-01-23
 
 * Seven compromised Cisco network devices communicating with Salt Typhoon/RedMike including:
   * US Based affiliate of a UK telecommunications provider

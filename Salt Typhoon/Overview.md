@@ -45,9 +45,12 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
   * A large Thailand telecommunications provider
 
 
-Attack Flow is as follows (WIP:
+Attack Flow is as follows (WIP):
 * Recon -> Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
 * Once targets were acquired, scans were run against the devices; these scans led to discovery of CVE-2023-20198 as an opening.
-* Leveraging this vulnerability, the actor was able to gain initial access into the target network.
-    * The actor then issued a privilege 15 command to create a local user/password combination
-* 
+* Leveraging this vulnerability, the actor was able to gain initial access into the target network. This exploit allows the actor to bypass authentication to reach the webui_wsma_http endpoint. Executing the exploit allows arbitrary Cisco IOS commands or configuration changes to be issued with Privilege 15 privileges
+    * Privilege 15 is the higest privileges available on Cisco devices
+    * The actor used this ability to create a new local account
+* Next, the actor leveraged CVE-2023-20273 to elevate the new account to root level
+    *  
+ 

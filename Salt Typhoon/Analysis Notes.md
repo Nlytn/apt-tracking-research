@@ -148,7 +148,8 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [The Return of Ghost Emperor's Demodex](https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/)
 - [CVE-2023-20198 POC](https://github.com/smokeintheshell/CVE-2023-20198)
 - [CVE-2023-20273 POC](https://github.com/smokeintheshell/CVE-2023-20273)
-- [NIST NVD Description](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
+- [CVE-2023-20198 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
+- [CVE-2023-20273 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20273)
 
 ---
 

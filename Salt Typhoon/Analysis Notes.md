@@ -57,9 +57,9 @@ Salt Typhoon is a People's Republic of China (PRC) state-backed actor that has b
 | Tactic              | Technique        | ID     | Description                          |
 |---------------------|-----------|---------------|--------------------------------------|
 | Reconnaissance      | Network Topology | T1590.004 | Salt Typhoon has used configuration files from exploited network devices to help discover upstream and downstream network segments  |
+| Initial Access      | Exploit Public Facing Application | T1190 | Salt Typhoon has exploited CVE-2018-0171 in the Smart Install feature of Cisco IOS and Cisco IOS XE software for initial access  |
 | Resource Development | Malware | T1587.001 |   Salt Tyhpoon has employed custom tooling including JumbledPath |
 | Resource Development | Tool | T1588.002 | Salt Typhoon has used publicly available tooling to exploit vulnerabilities  |
-| Initial Access      | Exploit Public Facing Application | T1190 | Salt Typhoon has exploited CVE-2018-0171 in the Smart Install feature of Cisco IOS and Cisco IOS XE software for initial access  |
 | Execution           | Create Account                    | T1136 | Salt Typhoon has created Linux-level users on compromised network devices through modification of /etc/shadow and /etc/passwd   |
 | Persistence         | SSH Authorized Keys               | T1098.004 | Salt Typhoon has added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |
 | Privilege Escalation | SSH Authorized Keys              | T1098.004 | Salt Typhoon has added SSH authorized_keys under root or other users at the Linux level on compromised network devices   |

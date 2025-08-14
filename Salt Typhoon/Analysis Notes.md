@@ -212,6 +212,7 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [🔗 CISA Statement on Targeting of Telecom Infrastructure](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
 - [🔗 CISA - Strengthening against PRC Threats](https://www.cisa.gov/news-events/news/strengthening-americas-resilience-against-prc-cyber-threats)
 - [🔗 TrendMicro - Unveiling Long Term Earth Estries Cyber Intrusions](https://www.trendmicro.com/en_us/research/24/k/earth-estries.html)
+- [Cisco Talos Report on compromise evaluation](https://blog.talosintelligence.com/salt-typhoon-analysis/)
 - [ Wikipedia Entry](https://en.wikipedia.org/wiki/Salt_Typhoon)
 - [Varonis Labs Report](https://www.varonis.com/blog/salt-typhoon)
 - [TrendMicro IOC's](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/k/earth-estries/IOC_list-EarthEstries.txt)

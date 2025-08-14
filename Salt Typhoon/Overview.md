@@ -19,7 +19,7 @@ CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability (Last 
 
 Hypothesis:
 ---
-* To gather information on & infiltrate telecom industry corporations. (It is important to note that while the telecommunications industry is the primary victim - [Weathering the storm: In the midst of a Typhoon](https://blog.talosintelligence.com/salt-typhoon-analysis/)) 
+* To gather information on & infiltrate telecom industry corporations. (It is important to note that while the telecommunications industry is the primary victim... - [Weathering the storm: In the midst of a Typhoon](https://blog.talosintelligence.com/salt-typhoon-analysis/)) 
 
 [Recorded Future analysis (See section "Technical Analysis")](https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices)
 ---

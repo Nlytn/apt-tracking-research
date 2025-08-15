@@ -70,6 +70,11 @@ Salt Typhoon is sponsored by the People's Rebublic of China (PRC) and has been a
 * Verizon
 * T-Mobile
 * Lumen Technologies
-*  
+*  Charter Communications
+*  Consolidated Communications
+*  Windstream
+*  Others remain unclear at this time; will continue investigating
+
+
 
 [^1]: [US Telecom Breaches Widen to 9 Firms Hit by Chinese Salt Typhoon Hackers](https://hackread.com/us-telecom-breaches-firms-chinese-salt-typhoon-hackers/)

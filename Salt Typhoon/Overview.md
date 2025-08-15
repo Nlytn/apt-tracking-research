@@ -65,11 +65,11 @@ Attack Flow is as follows (WIP - Potentially to be removed):
 
 Overview: 
 ---
-Salt Typhoon is sponsored by the People's Rebublic of China (PRC) and has been active since as early as 2019 (2024 - Talos). The main targets have been major telecommunications companies across the United States. The latest reports indicate nine (9) telecommunications providers have been breached<sup>[1]</sup> :
+Salt Typhoon is sponsored by the People's Rebublic of China (PRC) and has been active since as early as 2019 (2024 - Talos). The main targets have been major telecommunications companies across the United States. The latest reports indicate nine (9) telecommunications providers have been breached<sup>[^1]</sup> :
 * AT&T
 * Verizon
 * T-Mobile
 * Lumen Technologies
 *  
 
-[1]: [US Telecom Breaches Widen to 9 Firms Hit by Chinese Salt Typhoon Hackers](https://hackread.com/us-telecom-breaches-firms-chinese-salt-typhoon-hackers/)
+[^1]: [US Telecom Breaches Widen to 9 Firms Hit by Chinese Salt Typhoon Hackers](https://hackread.com/us-telecom-breaches-firms-chinese-salt-typhoon-hackers/)

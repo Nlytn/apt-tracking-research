@@ -48,7 +48,7 @@ Hypothesis:
   * A large Thailand telecommunications provider
 
 
-Attack Flow is as follows (WIP):
+Attack Flow is as follows (WIP - Potentially to be removed):
 ---
 * Recon:  Open source intelligence gathering on target devices. Targets involved Cisco network devices that were publicly facing and known to be associated with telecom companies and university institutions.
     * Once targets were acquired, scans were run against the devices; these scans led to discovery of CVE-2023-20198 as an opening.
@@ -62,4 +62,14 @@ Attack Flow is as follows (WIP):
 *  Questions:
     * What were their next steps? How did they pivot, and what did they target?
     * What was the target information? RecordedFuture appears to think its related to research on telecommunications, engineering and technology.
- 
+
+Overview: 
+---
+Salt Typhoon is sponsored by the People's Rebublic of China (PRC) and has been active since as early as 2019 (2024 - Talos). The main targets have been major telecommunications companies across the United States. The latest reports indicate nine (9) telecommunications providers have been breached ###### [1]:
+* AT&T
+* Verizon
+* T-Mobile
+* Lumen Technologies
+*  
+
+[1] - [US Telecom Breaches Widen to 9 Firms Hit by Chinese Salt Typhoon Hackers](https://hackread.com/us-telecom-breaches-firms-chinese-salt-typhoon-hackers/)

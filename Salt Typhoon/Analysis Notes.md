@@ -226,6 +226,7 @@ This snapshot shows the known TTPs associated with Salt Typhoon:
 - [CVE-2023-20198 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20198)
 - [CVE-2023-20273 - NIST](https://nvd.nist.gov/vuln/detail/cve-2023-20273)
 - [HACKRead review on attack; lists telecoms](https://hackread.com/us-telecom-breaches-firms-chinese-salt-typhoon-hackers/)
+- [Wall Street Journal Writeup on attack](https://archive.ph/20241005032832/https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b)
 
 ---
 
